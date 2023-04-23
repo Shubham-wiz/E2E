@@ -1,7 +1,7 @@
 # E2E
 End-to-End Self-Driving via Convolutional Neural Networks
 
-This is a machine learning lab assignment that involves implementing a Convolutional Neural Network (ConvNet) for end-to-end self-driving cars. The implementation follows the architecture proposed in the paper titled "End to End Learning for Self-Driving Cars."
+This Code is a piece from my machine learning lab assignment that involves implementing a Convolutional Neural Network (ConvNet) for end-to-end self-driving cars. The implementation follows the architecture proposed in the paper titled "End to End Learning for Self-Driving Cars."
 
 Resources for understanding ConvNets:
    
