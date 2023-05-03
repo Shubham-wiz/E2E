@@ -18,4 +18,4 @@ The implementation involves creating a ConvNet using PyTorch, training the model
     Train the model using the model_train() function from model.py and the training and validation data.
     Evaluate the model's accuracy using the test data and print the results.
     
-E2E.ipynb is self contained file for easier running .
+### E2E.ipynb is a self contained file for easier running .
