@@ -17,3 +17,5 @@ The implementation involves creating a ConvNet using PyTorch, training the model
     Create the ConvNet and optimizer using the ConvNet() class and optim.SGD() function from PyTorch.
     Train the model using the model_train() function from model.py and the training and validation data.
     Evaluate the model's accuracy using the test data and print the results.
+    
+E2E.ipynb is self contained file for easier running .
